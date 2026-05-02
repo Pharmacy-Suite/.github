@@ -10,7 +10,7 @@ Pharmacy Suite is building a lightweight, modular backends for the Romanian phar
 
 Live Development Streams happen on YouTube: https://www.youtube.com/@PaulSebastianManole.
 
-Contact: +40.720.231.791
+Contact: +40.720.231.791, brokenthorn@gmail.com
 
 ### Fun fact
 
@@ -28,7 +28,7 @@ Pharmacy Suite dezvoltă soluții backend modulare și eficiente pentru piața f
 
 Facem Stream-uri de Programare Live pe YouTube: https://www.youtube.com/@PaulSebastianManole.
 
-Contact: +40.720.231.791
+Contact: +40.720.231.791, brokenthorn@gmail.com
 
 ### Fun fact
 
